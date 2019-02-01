@@ -86,7 +86,7 @@ public class DataDriver {
 	    System.out.println(map.get("DOB"));
 
 	    System.out.println("-------------Test case Ended ----------------");
-
+System.out.println();
 	  }
 	
 }
