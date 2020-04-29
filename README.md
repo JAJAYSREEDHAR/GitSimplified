@@ -1,2 +1,0 @@
-# GitSimplified
-Git Practise
